@@ -1,0 +1,61 @@
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1vw 10vw;
+    align-items: center;
+
+}
+
+.navpgs{
+    display: flex;
+    justify-content: space-between;
+    gap: 2vw;
+}
+
+.search{
+   
+   
+    display: flex;
+    justify-content: center;
+    margin-top: 1vw;
+}
+.search input{
+    padding: 1vw;
+    width: 70%;
+    border: solid black 3px;
+}
+
+.cont{
+    width: 15%;
+    height: 40%  
+}
+
+.cont img {
+    width: 100%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 5vw;
+    margin-top: 3vw;
+}
+.cont p{
+    background-color: black;
+    color: white;
+    padding: 1vw;
+}
+.abt{
+    display: flex;
+    justify-content: center;
+
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    padding: 1vw 2vw;
+    margin-top: 3vw;
+}
